@@ -6,3 +6,6 @@ The first project use algorithm to do classification, regression, clustering, as
 Details check in the project 1 description <a href="/Project 1/assign1.pdf" download="assign1.pdf">*Download Project 1 Description*</a>
 
 ## Project two
+This project explores the use of **neural networks(JavaNNS)** for classication and numeric prediction. Besides, it also use bash code to do data pipeline processing with lambda, sed, head, tail and so forth.
+
+Details check in the project 2 description <a href="/Project 2/assign2.pdf" download="assign2.pdf">*Download Project 2 Description*</a>
